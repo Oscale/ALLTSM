@@ -3,6 +3,14 @@ Quick Idea layout document for the game that is
  - "A love letter to Super Metroid" -
 
 
+TODO: 
+- Character Movement 
+- Main Menu
+- Options Sub Menu
+- A basic dev testing enviroment
+- Pixel Menus and Character
+
+
 
 Gameplay 
 
